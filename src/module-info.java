@@ -1,0 +1,9 @@
+/**
+ * 
+ */
+/**
+ * @author ahmet
+ *
+ */
+module DaireAlanYaricap {
+}
